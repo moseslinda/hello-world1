@@ -16,7 +16,7 @@ int main()
 	cout << "hello , " << myName<<endl;
 
 
-
+	cout << "Goodby" << endl;
 
 	system("pause");
 
